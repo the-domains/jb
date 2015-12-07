@@ -1,0 +1,28 @@
+name: JB
+favicon: null
+layout_spectrum: 0.5227602093946189
+typography_spectrum: 0.5008479848038405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9810677217319608
+  lightness: 0.11923623248003423
+  saturation: 0.0031430472154170275
+  rhythmicContrast: 0.19214096572250128
+purpose: []
