@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JB]]></title>
         <description><![CDATA[JB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 14:05:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 13:05:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Optimizing Your Design For Rapid Prototype Testing - Smashing Magazine]]></title>
+            <description><![CDATA[<article><h1>Optimizing Your Design For Rapid Prototype Testing - Smashing Magazine</h1><p>Product teams in startups and mid-sized and large companies are all implementing usability testing and prototyping as a way to de-risk product development. As the focus shifts from engineering to prototyping, it is becoming increasingly important for anyone who creates prototypes to understand the differences between a prototype and a product build.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/338e8eda65f4cc2ac4c83ab147df48772f30abdf.png"></article>]]></description>
+            <link>http://www.smashingmagazine.com/2015/12/optimizing-your-design-for-rapid-prototype-testing/</link>
+            <guid isPermaLink="false">d749947b-c24e-41c4-9400-9c47db6ab91a</guid>
+            <pubDate>Wed, 23 Dec 2015 13:04:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/jb/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">910c76ad-2c1f-4169-b21d-59739f76eed0</guid>
             <pubDate>Mon, 07 Dec 2015 14:05:31 GMT</pubDate>
         </item>
